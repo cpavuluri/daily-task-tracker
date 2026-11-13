@@ -1,4 +1,4 @@
-# daily-task-tracker
+# Daily Task Tracker
 
 A simple task management web application built with Python and FastAPI.
 
